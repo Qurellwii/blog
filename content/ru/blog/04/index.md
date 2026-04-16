@@ -9,14 +9,14 @@ caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
 authors:
 
-* me
+- me
 
 tags:
 
-* Academic
-* Student Life
-* RUDN
-* Business Informatics
+- Academic
+- Student Life
+- RUDN
+- Business Informatics
 
 ---
 
